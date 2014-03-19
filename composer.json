@@ -1,0 +1,5 @@
+{
+    "require" : {
+        "wikimart/merchant-api-client" : "*"
+    }
+}
